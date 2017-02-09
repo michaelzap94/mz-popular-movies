@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MZ popular movies</string>
+    <string name="sort">Sort By</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="no_internet">Please, connect to the Internet to see the most popular movies </string>
+    <string name="movie_release">Release Date: &#160;</string>
+    <string name="movie_rating">Rating: &#160;</string>
+
+</resources>

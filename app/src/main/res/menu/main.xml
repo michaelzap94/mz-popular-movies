@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/sort_btn"
+        android:title="@string/sort"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom">
+    <!-- "file" submenu -->
+    <menu>
+        <item android:id="@+id/most_popular_btn"
+            android:title="@string/most_popular"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/highest_rated_btn"
+            android:title="@string/highest_rated"
+            app:showAsAction="ifRoom"/>
+
+    </menu>
+    </item>
+
+
+
+
+
+
+
+
+
+</menu>
